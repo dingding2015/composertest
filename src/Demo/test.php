@@ -8,7 +8,7 @@ namespace Demo;
 class test
 {
 	
-	public function static get()
+	public static function get()
 	{
 		return "addddd";	
 	}
