@@ -5,7 +5,7 @@ namespace Demo;
 /**
  * 
  */
-class test
+class Test
 {
 	
 	public static function get()
