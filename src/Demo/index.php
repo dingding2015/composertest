@@ -10,6 +10,6 @@ class test
 	
 	function static get()
 	{
-		return "a";	
+		return "addddd";	
 	}
 }
