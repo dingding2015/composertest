@@ -1,0 +1,15 @@
+{
+    "name": "yanli/composertest",
+    "authors": [
+        {
+            "name": "yanyanli",
+            "email": "yanyanli@gongchang.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"Demo\\":"src/Demo"
+    	}
+    }
+}
